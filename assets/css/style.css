@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Quicksand:wght@300;400;500&display=swap');
+
+body {
+    font-family: andika, sans-serif;
+    font-weight: 400;
+    color: darkslategrey ;
+}
+
+#logo {
+    font-family: Quicksand, sans-serif;
+    font-weight: 700;
+    color: black;
+    float: left;
+}
+
+#menu {
+    float:right;
+}
+
+
+#hero-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    background-size: cover;
+    position: relative;
+    background: url('../images/hero.webp') no-repeat center center;
+    
+}
+
+    
+
+
+    /* cover text for image taken from love running - retrun to edit style */
+    #cover-text {
+        font-size: 100%;
+        font-family: Quicksand,sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+
+        width: 300px;
+        height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: lightcyan;
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+    }
