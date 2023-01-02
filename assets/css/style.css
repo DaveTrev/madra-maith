@@ -1,20 +1,53 @@
 @import url('https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Quicksand:wght@300;400;500&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
     font-family: andika, sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     color: darkslategrey ;
 }
 
 #logo {
     font-family: Quicksand, sans-serif;
     font-weight: 700;
+    font-size: 280%;
     color: black;
     float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
 
 #menu {
+    font-size: 100%;
+    letter-spacing: 1px;
     float:right;
+    list-style-type: none;
+    margin: 0;
+    padding-right: 40px;
+    display: inline;
+    
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid darkslategray;
+}
+
+#menu ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: blanchedalmond;
 }
 
 
@@ -22,7 +55,7 @@ body {
     height: 500px;
     width: 100%;
     overflow: hidden;
-    background-size: cover;
+    background-size: cover; 
     position: relative;
     background: url('../images/hero.webp') no-repeat center center;
     
@@ -51,3 +84,18 @@ body {
 
     position: absolute;
     }
+
+    footer {
+        height: 100%;
+    
+    }
+
+    .social-networks {
+        display: inline;
+        text-align: inline;
+    }
+
+    .social-networks > li {
+        text-align: center;
+    }
+
