@@ -16,3 +16,9 @@ Building and styling the site in a usable manner is the top priority.</p>
 <hr>
 <h2>Additions</h2>
 <p>I would endeavour to include a calander of available times for the dog walking service although that may be something to add further down the line.</p>
+<hr>
+<h2>Resources</h2>
+<p>
+Images taken from pexels.com
+Wireframes made using draw.io
+</p>
