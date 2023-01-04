@@ -96,11 +96,11 @@ body {
     }
 
     .social-networks {
-        display: inline;
-        text-align: inline;
+        text-align: center;
+        
     }
 
     .social-networks > li {
-        text-align: center;
+        display: inline;
     }
 
