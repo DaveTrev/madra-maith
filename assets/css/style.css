@@ -29,14 +29,20 @@ body {
     float:right;
     list-style-type: none;
     margin: 0;
-    padding-right: 40px;
-    display: inline;
+    padding-right: 80px;
     
 }
+
+#menu li {
+    display: inline-block;
+    padding-top: 50px;
+    padding-right: 50px;
+    }
 
 #menu a {
     text-decoration: none;
     color: inherit;
+    display: block;
 }
 
 #menu a:hover {
@@ -87,7 +93,6 @@ body {
 
     footer {
         height: 100%;
-    
     }
 
     .social-networks {
