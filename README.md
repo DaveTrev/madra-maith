@@ -24,7 +24,7 @@ In discussion with my mentor, I chose to use Flexbox as a means of positioning e
 </p>
 <h2>Resources</h2>
 <p>
-Images taken from pexels.com
+Images taken from pexels.com and unsplash.com
 Wireframes made using draw.io
 learning flexbox techniques from "the net ninja" youtube channel / *** possible use modernizr to help with ie browser support ***
 </p>
