@@ -12,7 +12,8 @@ the last page will be a contact page, one to submit details (first name/last nam
 <h2>Tools used</h2>
 <p>Using a combination of HTML/CSS I will build a responsive site to fill both the user and the buisnesses needs.
 This is my first website build, the challenges i will face in building it, are utilizing the tools at hand. 
-Building and styling the site in a usable manner is the top priority.</p>
+Building and styling the site in a usable manner is the top priority.
+In discussion with my mentor, I chose to use Flexbox as a means of positioning elements</p>
 <hr>
 <h2>Additions</h2>
 <p>I would endeavour to include a calander of available times for the dog walking service although that may be something to add further down the line.</p>

@@ -24,19 +24,16 @@ body {
 }
 
 #menu {
-    font-size: 100%;
-    letter-spacing: 1px;
-    float:right;
-    list-style-type: none;
-    margin: 0;
-    padding-right: 80px;
-    
+    display: flex;
+    justify-content: flex-end;
+    background-color: white; 
 }
 
 #menu li {
     display: inline-block;
     padding-top: 50px;
     padding-right: 50px;
+    padding-bottom: 50px;
     }
 
 #menu a {
