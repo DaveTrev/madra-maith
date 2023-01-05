@@ -23,7 +23,6 @@ body {
     font-weight: 700;
     font-size: 280%;
     color: black;
-    
     margin-top: 20px;
     margin-left: 20px;
     margin-bottom: 20px;
@@ -119,4 +118,3 @@ nav ul {
     .social-networks > li {
         display: inline;
     }
-
