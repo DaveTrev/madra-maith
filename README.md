@@ -25,4 +25,5 @@ Building and styling the site in a usable manner is the top priority.</p>
 <p>
 Images taken from pexels.com
 Wireframes made using draw.io
+learning flexbox techniques from "the net ninja" youtube channel / *** possible use modernizr to help with ie browser support ***
 </p>
